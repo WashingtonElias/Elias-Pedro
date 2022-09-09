@@ -1,0 +1,19 @@
+#banner {
+	width: 100%;
+} 
+body {
+	background: #0000ff;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+
+
